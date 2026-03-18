@@ -1,0 +1,13 @@
+# My First GitHub Project
+
+This project is created as part of my GitHub learning activity.
+
+Name: Srimathi
+Purpose: To understand GitHub basics
+
+In this project, I learned:
+- How to create a repository
+- How to add files
+- How to commit changes
+
+This is my first step towards learning version control and coding.
